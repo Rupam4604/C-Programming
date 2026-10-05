@@ -1,0 +1,12 @@
+# Build files
+build/
+*.o
+*.obj
+*.exe
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.out
+*.tmp
